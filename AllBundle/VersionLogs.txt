@@ -1,6 +1,6 @@
-2022/2/24 17:32:06|1|False
+2022/2/24 17:35:53|1|False
 allbundle_assets_bundles_loginbg_jpg.bundle|5465590|493038061
-allbundle_assets_bundles_loginui_prefab.bundle|58742|2518759293
+allbundle_assets_bundles_loginui_prefab.bundle|60310|3613721890
 allbundle_assets_bundles_resetui_prefab.bundle|34230|2052410801
 allbundle_assets_bundles_subbundleassets_mister91jiao_prefab.bundle|1847926|1151664022
 allbundle_assets_bundles_subui_prefab.bundle|10352|3801060243

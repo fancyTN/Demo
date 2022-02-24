@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1750242473
+CRC: 168490908
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7f288f04b30fc5f52786655cbcb94b7e
+    Hash: 945900ef6937b4be5e4092824ca1c46f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d31853a0b8a41d18dc8ee7299cfb815
@@ -39,4 +39,3 @@ Assets:
 Dependencies:
 - F:/BundleMaster_IntegrateETTask-main/BundleMaster_IntegrateETTask-main/BuildBundles/AllBundle/allbundle_assets_bundles_loginbg_jpg.bundle
 - F:/BundleMaster_IntegrateETTask-main/BundleMaster_IntegrateETTask-main/BuildBundles/AllBundle/allbundle_assets_bundles_subui_prefab.bundle
-- F:/BundleMaster_IntegrateETTask-main/BundleMaster_IntegrateETTask-main/BuildBundles/AllBundle/allbundle_assets_res_texture_91logo_png.bundle

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 773458320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e662143cce2dfb9d9eb67575d6eba618
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5bd407873b00d6c5e4aafabc2ce53bab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/SubBundleAssets/mister91jiao.prefab
+Dependencies:
+- F:/BundleMaster_IntegrateETTask-main/BundleMaster_IntegrateETTask-main/BuildBundles/AllBundle/allbundle_assets_res_texture_91logo_png.bundle

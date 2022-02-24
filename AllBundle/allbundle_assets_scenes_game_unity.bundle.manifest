@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1454102305
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3153067d25142876236ef126195bb11f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e1a37b6ced72ce4f41b0b73cf5aebf8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a0e96861f2085a47a4d1e887d2be157, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Game.unity
+Dependencies:
+- F:/BundleMaster_IntegrateETTask-main/BundleMaster_IntegrateETTask-main/BuildBundles/AllBundle/shader_allbundle
